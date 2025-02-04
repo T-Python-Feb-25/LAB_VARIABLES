@@ -18,7 +18,7 @@ name0 = name1 = name2 = 21
 name4 , name5 , name6 = 90 , 77 , 30
 
 print(name2 + name5)
-print(name1 * name2 + name0 - name6)
+print(name1 * name2 + name0 - name6 / name4)
 
 
 
