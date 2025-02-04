@@ -7,7 +7,7 @@ print("My favourite football team is ",my_team)
 x=7
 y=5.5
 
-print("an integer number x =",x)
+print(f"an integer number x ={x}")
 print("a float number y =",y)
 
 #Assign One Value to Multiple Variables (choose random names & values).
