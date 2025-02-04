@@ -5,9 +5,11 @@ Team = "alnasser"
 
 # Variable 'Y'
 x : int = 22
+print(type(x))
 
 # Variable 'x'
-y : float = 11
+y : float = 11.0
+print(type(y))
 
 # 3 Variables in one value 
 name0 = name1 = name2 = 21
